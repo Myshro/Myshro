@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Current goals:
+- Take and pass the AWS Solutions Architect (SAA-C03) exam by the end of Jan. 2026!
