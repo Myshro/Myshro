@@ -2,8 +2,8 @@
 
 I'm a computer scientist specializing in full-stack development, AR/VR technologies, and AI-powered applications. I am studying Computer Science with a minor in Data Science at the University of Virginia (Class of 2027), and my professional experience includes:
 
-- Building React-based internal applications serving 200+ employees with real-time features and multilingual support at Hyundai / Mitsubishi,
-- Leading development and deployment of Struct-AR, an educational iOS/Android AR application used in university engineering courses to accelerate student learning,
+- Building React-based internal applications serving 200+ employees with real-time features and multilingual support at Hyundai / Mitsubishi.
+- Leading development and deployment of Struct-AR, an educational iOS/Android AR application used in university engineering courses to accelerate student learning.
 - Developing AI-powered full-stack applications for Google-funded research, enabling simulation of multi-agent conversations using React, Express, and Gemini API.
 - Creating immersive VR experiences and gameplay mechanics for commercial games on Steam and Meta Store.
 
