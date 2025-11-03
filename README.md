@@ -25,11 +25,3 @@ I'm a computer scientist specializing in full-stack development, AR/VR technolog
 **Languages**: Java, Python, JavaScript/TypeScript, C#, SQL, Go, C/C++, R  
 **Frameworks**: React, Next.js, Django, Angular, PyTorch, Spring Boot  
 **Tools**: Git, Docker, AWS, Unity, Figma, Bash/Linux
-
-## 📫 Let's Connect
-
-I'm passionate about leveraging emerging technologies to solve real-world problems through innovative software solutions.
-
-📧 hong.andrew.j@gmail.com  
-🌐 [andrewhong.vercel.app](https://andrewhong.vercel.app)  
-💼 Open to software engineering opportunities and collaborative projects
