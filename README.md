@@ -1,19 +1,35 @@
-## Hi! どうも～
+## Hi! どうも～, I'm Andrew
 
-<!--
-**Myshro/Myshro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer scientist specializing in full-stack development, AR/VR technologies, and AI-powered applications. I am studying Computer Science with a minor in Data Science at the University of Virginia (Class of 2027), and my professional experience includes:
 
-Here are some ideas to get you started:
+- Building React-based internal applications serving 200+ employees with real-time features and multilingual support at Hyundai / Mitsubishi,
+- Leading development and deployment of Struct-AR, an educational iOS/Android AR application used in university engineering courses to accelerate student learning,
+- Developing AI-powered full-stack applications for Google-funded research, enabling simulation of multi-agent conversations using React, Express, and Gemini API.
+- Creating immersive VR experiences and gameplay mechanics for commercial games on Steam and Meta Store.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Areas of Focus
 
-Current goals:
-- Take and pass the AWS Solutions Architect (SAA-C03) exam by the end of Jan. 2026!
+- **Full-Stack Web & Mobile Development** (React, Django, Unity)
+- **Augmented & Virtual Reality** (AR/VR Education, Spatial Computing)
+- **AI/ML Integration** (OpenAI APIs, Gemini, NLP)
+- **Cloud Infrastructure & DevOps** (Docker, AWS, CI/CD)
+- **Geospatial Intelligence & Predictive Analytics**
+
+## 🚀 Current Projects
+
+- **Resource Conflict Prediction**: Collaborating with the National Geospatial-Intelligence Agency (NGA) to develop predictive models using ArcGIS and remote sensing data for water resource monitoring.
+- **VR Traffic Box Training**: Building an Apple Vision Pro training application for the Virginia Department of Transportation to streamline technician onboarding and reduce training costs by 30%.
+
+## 💻 Technical Expertise
+
+**Languages**: Java, Python, JavaScript/TypeScript, C#, SQL, Go, C/C++, R  
+**Frameworks**: React, Next.js, Django, Angular, PyTorch, Spring Boot  
+**Tools**: Git, Docker, AWS, Unity, Figma, Bash/Linux
+
+## 📫 Let's Connect
+
+I'm passionate about leveraging emerging technologies to solve real-world problems through innovative software solutions.
+
+📧 hong.andrew.j@gmail.com  
+🌐 [andrewhong.vercel.app](https://andrewhong.vercel.app)  
+💼 Open to software engineering opportunities and collaborative projects
